@@ -42,11 +42,11 @@ neri> listar archivos en el directorio actual
 IA raw: ls -la
 CMD: ls -la
 
-neri> buscar texto "hola" en todos los archivos
+Emiliano> buscar texto "hola" en todos los archivos
 IA raw: grep -r "hola" .
 CMD: grep -r "hola" .
 
-neri> exit
+Emiliano> exit
 Saliendo...
 ```
 
